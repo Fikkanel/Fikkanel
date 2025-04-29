@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fikkanel
+- 👋 Hi, I’m @Fikkanel You Can Call Me Ek
 - 👀 I’m interested in programming, web development, and data science.
 - 🌱 I’m currently learning Python and JavaScript.
 - 💞️ I’m looking to collaborate on open-source projects and web applications.
