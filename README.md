@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Fikkanel You Can Call Me Ek
+- 👋 Hi, I’m @Fikkanel You Can Call Me El
 - 👀 I’m interested in programming, web development, and data science.
 - 🌱 I’m currently learning Python and JavaScript.
 - 💞️ I’m looking to collaborate on open-source projects and web applications.
-- 📫 How to reach me: [putraneayah1@gmail.com](mailto:putraneayah1@gmail.com)
+- 📫 How to reach me: [putraneayah1@gmail.com](mailto:mfikkanel@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play video games and explore new technologies!
