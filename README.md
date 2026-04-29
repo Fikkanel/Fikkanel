@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fikkanel You Can Call Me El
 - 👀 I’m interested in programming, web development, and data science.
-- 🌱 I’m currently learning Python, JavaScript, and PHP.
+- 🌱 I’m currently learning Python, JavaScript, PHP, dart, etc.
 - 💞️ I’m looking to collaborate on open-source projects and web applications.
 - 📫 How to reach me: [mfikkanel@gmail.com](mailto:mfikkanel@gmail.com)
 - 😄 Pronouns: He/Him
