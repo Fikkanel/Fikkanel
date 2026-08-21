@@ -29,8 +29,8 @@
 
 <br />
 
-<!-- 📊 Dynamic GitHub Activity Graph & Streak Section -->
-<h2 align="center">📊 GitHub Activity & Streak</h2>
+<!-- 📊 Dynamic GitHub Activity Graph & Profile Stats -->
+<h2 align="center">📊 GitHub Activity & Profile Summary</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fikkanel&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
@@ -39,7 +39,8 @@
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Fikkanel&theme=dark&hide_border=true&background=0D1117&ring=00F5D4&fire=FF6B6B&currStreakLabel=00F5D4" height="170" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fikkanel&theme=2077" width="49%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fikkanel&theme=2077" width="49%" alt="Profile Stats" />
 </div>
 
 <hr />
