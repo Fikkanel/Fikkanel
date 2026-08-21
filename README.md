@@ -4,7 +4,7 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Fullstack+%26+Mobile+Developer;Python+%26+Cybersecurity+Enthusiast;Flutter+%26+Laravel+Developer;Always+Building+Cool+Stuff!%20🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Fullstack+%26+Mobile+Developer;Python+%26+Cybersecurity+Enthusiast;Flutter+%26+Laravel+Developer;Always+Building+Cool+Stuff!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,18 +29,17 @@
 
 <br />
 
-<!-- 📊 Dynamic GitHub Stats & Streak Section -->
-<h2 align="center">📊 GitHub Statistics & Activity</h2>
+<!-- 📊 Dynamic GitHub Activity Graph & Streak Section -->
+<h2 align="center">📊 GitHub Activity & Streak</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fikkanel&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=E6EDF3" height="170" alt="Fikkanel GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fikkanel&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=E6EDF3" height="170" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fikkanel&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fikkanel&theme=dark&hide_border=true&background=0D1117&ring=00F5D4&fire=FF6B6B&currStreakLabel=00F5D4&sideNums=E6EDF3&dates=8B949E" height="165" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Fikkanel&theme=dark&hide_border=true&background=0D1117&ring=00F5D4&fire=FF6B6B&currStreakLabel=00F5D4" height="170" alt="GitHub Streak Stats" />
 </div>
 
 <hr />
